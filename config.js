@@ -1,4 +1,5 @@
 module.exports = require('yargs')
+    .env('MQTT2ELASTICSEARCH')
     .usage('Usage: $0 [options]')
     .describe('e', 'elasticsearch url')
     .describe('v', 'possible values: "error", "warn", "info", "debug"')
