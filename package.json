@@ -30,7 +30,7 @@
     "mqtt": "^2.16.0",
     "request": "^2.85.0",
     "yalm": "^4.1.0",
-    "yargs": "^11.0.0"
+    "yargs": "^13.1.0"
   },
   "devDependencies": {
     "camo-purge": "^1.0.2",
