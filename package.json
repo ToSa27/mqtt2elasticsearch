@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/hobbyquaker/mqtt2elasticsearch",
   "dependencies": {
-    "mqtt": "^2.16.0",
+    "mqtt": "^4.2.7",
     "request": "^2.85.0",
     "yalm": "^4.1.0",
     "yargs": "^11.0.0"
